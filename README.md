@@ -1,2 +1,2 @@
 # testrepo
-This is a test for a coursera course
+This is how you change the text of the read me file
